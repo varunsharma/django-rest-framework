@@ -6,6 +6,7 @@
 /site/
 /htmlcov/
 /coverage/
+.ci-replay-cache/
 /build/
 /dist/
 /*.egg-info/
