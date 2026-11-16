@@ -50,6 +50,7 @@ pages:
     - 'Testing': 'api-guide/testing.md'
     - 'Settings': 'api-guide/settings.md'
  - Topics:
+     - 'CI test replay': 'topics/ci-test-replay.md'
      - 'Documenting your API': 'topics/documenting-your-api.md'
      - 'API Clients': 'topics/api-clients.md'
      - 'Internationalization': 'topics/internationalization.md'
